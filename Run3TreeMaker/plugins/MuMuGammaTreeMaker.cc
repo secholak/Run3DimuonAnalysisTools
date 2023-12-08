@@ -667,6 +667,7 @@ void MuMuGammaTreeMaker::analyze(const edm::Event& iEvent, const edm::EventSetup
                         mathedPhotonEta.clear();
                         mathedPhotonPhi.clear();
                         
+                        // look for photons
                         for (auto pgp = packedGenParticles->begin(); pgp != packedGenParticles->end(); ++pgp) {
                           // derefference and cast to the base class to make direct comparison
                           const reco::Candidate* pgpPtr = &(*pgp);
@@ -687,14 +688,14 @@ void MuMuGammaTreeMaker::analyze(const edm::Event& iEvent, const edm::EventSetup
                         }
 
                         // isPhi2KK
-                        if      ((abs(genp->pdgId()) == 221) and !(nPhotons == 1)) isEta2MuMu = true;
+                        if      ((abs(genp->pdgId()) == 221) and (nPhotons == 0)) isEta2MuMu = true;
                         else if ((abs(genp->pdgId()) == 221) and (nPhotons == 1))    isEta2MuMuGamma = true;
-                        else if ((abs(genp->pdgId()) == 331) and !(nPhotons == 1)) isEtaPrime2MuMu = true;
+                        else if ((abs(genp->pdgId()) == 331) and (nPhotons == 0)) isEtaPrime2MuMu = true;
                         else if ((abs(genp->pdgId()) == 331) and (nPhotons == 1))    isEtaPrime2MuMuGamma = true;
-                        else if ((abs(genp->pdgId()) == 223) and !(nPhotons == 1)) isOmega2MuMu = true;
+                        else if ((abs(genp->pdgId()) == 223) and (nPhotons == 0)) isOmega2MuMu = true;
                         else if ((abs(genp->pdgId()) == 223) and aPi0)    isOmega2Pi0MuMu = true;      
-                        else if ((abs(genp->pdgId()) == 113) and !(nPhotons == 1)) isRho2MuMu = true;
-                        else if ((abs(genp->pdgId()) == 333) and !(nPhotons == 1)) isPhi2MuMu = true;
+                        else if ((abs(genp->pdgId()) == 113) and (nPhotons == 0)) isRho2MuMu = true;
+                        else if ((abs(genp->pdgId()) == 333) and (nPhotons == 0)) isPhi2MuMu = true;
                       }
                     }
             }

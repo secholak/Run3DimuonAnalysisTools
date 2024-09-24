@@ -71,8 +71,14 @@
 #include "DataFormats/HepMCCandidate/interface/GenParticle.h"
 #include "SimDataFormats/GeneratorProducts/interface/GenEventInfoProduct.h"
 
+
+
+#include "PhysicsTools/PatAlgos/interface/SoftMuonMvaRun3Estimator.h"
+#include "PhysicsTools/PatAlgos/interface/XGBooster.h"
+
 //#include "TMtuple.hh"
 #include "MMGUtils.hh"
+
 
 //
 // class declaration
@@ -92,6 +98,7 @@ public:
   bool isAncestor(const reco::GenParticle* ancestor, const reco::Candidate* particle);
   bool isMatched(const reco::Candidate* gen_particle, const TLorentzVector* reco_vector, float cand_mass);
   bool isPi0(const std::vector<float>& photonsPt, const std::vector<float>& photonsEta, const std::vector<float>& photonsPhi);
+  float getSoftMVARun3MuonID();
 
 private:
   virtual void beginJob() override;
@@ -139,6 +146,7 @@ private:
   int lumiSec;
   int runNum;
 
+  //  following the convention: idxes 1, 2 correspond for mu_1, mu_2
   float pfIso1;
   float pfIso2;
 
@@ -180,6 +188,15 @@ private:
 
   std::vector<bool> muonID1;
   std::vector<bool> muonID2;
+
+  float softMvaRun3Value1;
+  float softMvaRun3Value2;
+
+
+  // Run3 soft MVA classifier that we apply on fly
+  std::unique_ptr<pat::XGBooster> softMuonMvaRun3Booster_;
+  float custom_softMvaRun3Value1;
+  float custom_softMvaRun3Value2;
 
   std::vector<float> slimmedPhotonPt;
   std::vector<float> slimmedPhotonEta;
@@ -237,6 +254,7 @@ private:
   bool isPhi2MuMu;
   bool isPhi2KK;
 
+  
 
   
     
@@ -267,7 +285,8 @@ MuMuGammaTreeMaker::MuMuGammaTreeMaker(const edm::ParameterSet& iConfig):
     packedGenToken  (consumes<std::vector<pat::PackedGenParticle> > (iConfig.getParameter<edm::InputTag>("packedGenParticles"))),
     esToken(esConsumes<TransientTrackBuilder, TransientTrackRecord>(edm::ESInputTag("", "TransientTrackBuilder"))),
     doL1                     (iConfig.existsAs<bool>("doL1")               ?    iConfig.getParameter<bool>  ("doL1")            : false),
-    doGEN                    (iConfig.existsAs<bool>("doGEN")               ?    iConfig.getParameter<bool>  ("doGEN")            : false)
+    doGEN                    (iConfig.existsAs<bool>("doGEN")               ?    iConfig.getParameter<bool>  ("doGEN")            : false),
+    doSoftMuonMVA (iConfig.existsAs<bool>("doSoftMuonMVA")               ?    iConfig.getParameter<bool>  ("doSoftMuonMVA")            : false)
 {
     usesResource("TFileService");
     if (doL1) {
@@ -281,6 +300,13 @@ MuMuGammaTreeMaker::MuMuGammaTreeMaker(const edm::ParameterSet& iConfig):
         l1Seeds_ = std::vector<std::string>();
         l1GtUtils_ = 0;
     }
+
+    if (doSoftMuonMVA) {
+      std::string softMvaRun3Model = iConfig.getParameter<string>("softMvaRun3Model");
+      softMuonMvaRun3Booster_ =
+        std::make_unique<pat::XGBooster>(edm::FileInPath(softMvaRun3Model + ".model").fullPath(),
+                edm::FileInPath(softMvaRun3Model + ".features").fullPath());
+    }
 }
 
 MuMuGammaTreeMaker::~MuMuGammaTreeMaker() {
@@ -293,6 +319,15 @@ MuMuGammaTreeMaker::~MuMuGammaTreeMaker() {
 //
 // member functions
 //
+
+
+float MuMuGammaTreeMaker::getSoftMVARun3MuonID( const pat::Muon &muon)
+{
+  float val = computeSoftMvaRun3(*softMuonMvaRun3Booster_, muon);
+  return val;
+
+}
+
 
 //Check recursively if any ancestor of particle is the given one
 bool MuMuGammaTreeMaker::isAncestor(const reco::GenParticle* ancestor, const reco::Candidate* particle)
@@ -341,6 +376,8 @@ bool MuMuGammaTreeMaker::isMatched(const reco::Candidate* gen_particle, const TL
 
   return is_matched;
 }
+
+
 
 // ------------ method called for each event  ------------
 void MuMuGammaTreeMaker::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup) {
@@ -513,6 +550,10 @@ void MuMuGammaTreeMaker::analyze(const edm::Event& iEvent, const edm::EventSetup
     vtxZError = vertex.zError();
     probVtx = bestProbVtx;
 
+    // fill soft mva run3 val
+    softMvaRun3Value1 = muonsH->at(idx[0]).softMvaRun3Value();
+    softMvaRun3Value2 = muonsH->at(idx[1]).softMvaRun3Value();
+
 
     Handle<vector<pat::Photon> > photonsH;
     iEvent.getByToken(photonsToken, photonsH);
@@ -591,8 +632,19 @@ void MuMuGammaTreeMaker::analyze(const edm::Event& iEvent, const edm::EventSetup
     hltResult_.clear();
     for (size_t i = 0; i < triggerPathsVector.size(); i++) {
         hltResult_.push_back(triggerResultsH->accept(triggerPathsMap[triggerPathsVector[i]]));
-	}
+	  }
 
+    custom_softMvaRun3Value1 = -1;
+    custom_softMvaRun3Value2 = -1;
+    // Compute soft MVA run3 var
+    if (doSoftMuonMVA) {
+      custom_softMvaRun3Value1 = getSoftMVARun3MuonID(muonsH->at(idx[0]));
+      custom_softMvaRun3Value2 = getSoftMVARun3MuonID(muonsH->at(idx[1]));
+
+    } 
+
+
+    // Truthmatching algorithm
     motherGenID = 0; 
     mupGenID = 0; mumGenID = 0;
     isEta2MuMu            = false;
@@ -804,6 +856,14 @@ void MuMuGammaTreeMaker::beginJob() {
     tree->Branch("pfCandPhotonEnergy", "std::vector<float>", &pfCandPhotonEnergy, 32000, 0);
     tree->Branch("pfCandPhotonEt", "std::vector<float>", &pfCandPhotonEt, 32000, 0);
     tree->Branch("pfCandPhotonEt2", "std::vector<float>", &pfCandPhotonEt2, 32000, 0);
+
+    tree->Branch("softMvaRun3Value1"                , &softMvaRun3Value1                          , "softMvaRun3Value1/F"  );
+    tree->Branch("softMvaRun3Value2"                , &softMvaRun3Value2                          , "softMvaRun3Value2/F"  );
+
+
+    tree->Branch("custom_softMvaRun3Value1"                , &custom_softMvaRun3Value1                          , "custom_softMvaRun3Value1/F"  );
+    tree->Branch("custom_softMvaRun3Value2"                , &custom_softMvaRun3Value2                          , "custom_softMvaRun3Value2/F"  );
+
 }
 
 // ------------ method called once each job just after ending the event loop  ------------

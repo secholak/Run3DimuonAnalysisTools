@@ -74,7 +74,8 @@
 
 
 #include "PhysicsTools/PatAlgos/interface/SoftMuonMvaRun3Estimator.h"
-#include "PhysicsTools/PatAlgos/interface/XGBooster.h"
+// #include "PhysicsTools/PatAlgos/interface/XGBooster.h"
+#include "PhysicsTools/XGBoost/interface/XGBooster.h"
 
 //#include "TMtuple.hh"
 #include "MMGUtils.hh"
@@ -98,7 +99,7 @@ public:
   bool isAncestor(const reco::GenParticle* ancestor, const reco::Candidate* particle);
   bool isMatched(const reco::Candidate* gen_particle, const TLorentzVector* reco_vector, float cand_mass);
   bool isPi0(const std::vector<float>& photonsPt, const std::vector<float>& photonsEta, const std::vector<float>& photonsPhi);
-  float getSoftMVARun3MuonID();
+  float getSoftMVARun3MuonID(const pat::Muon &muon);
 
 private:
   virtual void beginJob() override;
@@ -130,6 +131,7 @@ private:
 
   bool doL1;
   bool doGEN;
+  bool doSoftMuonMVA;
   triggerExpression::Data triggerCache_;
 
   edm::InputTag                algInputTag_;
@@ -323,7 +325,7 @@ MuMuGammaTreeMaker::~MuMuGammaTreeMaker() {
 
 float MuMuGammaTreeMaker::getSoftMVARun3MuonID( const pat::Muon &muon)
 {
-  float val = computeSoftMvaRun3(*softMuonMvaRun3Booster_, muon);
+  float val = pat::computeSoftMvaRun3(*softMuonMvaRun3Booster_, muon);
   return val;
 
 }

@@ -126,7 +126,7 @@ dir+"/store/mc/Run3Summer22MiniAODv3/InclusiveDileptonMinBias_TuneCP5Plus_13p6Te
 #process.gtStage2Digis.InputLabel = cms.InputTag( "hltFEDSelectorL1" )
 
 process.TFileService = cms.Service("TFileService", 
-    fileName = cms.string("mmgTree.root")
+    fileName = cms.string("mmgTree_MC.root")
 )
 
 #process.ScoutingFilterPath = cms.Path(process.scoutingFilter)
@@ -155,6 +155,8 @@ process.tree = cms.EDAnalyzer('MuMuGammaTreeMaker',
                                       prunedGenParticles  = cms.InputTag("prunedGenParticles"),
                                       packedGenParticles  = cms.InputTag("packedGenParticles"),
                                       doGEN = cms.bool( True ),
+                                      doSoftMuonMVA     = cms.bool( True ),
+                                      softMvaRun3Model  = cms.string("RecoMuon/MuonIdentification/data/Run2022-20231030-1731-Event0"),
                                       primaryVertices  = cms.InputTag("offlineSlimmedPrimaryVertices"),
                                       displacedVertices  = cms.InputTag("slimmedSecondaryVertices"),
                                   )

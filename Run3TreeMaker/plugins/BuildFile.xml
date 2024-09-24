@@ -15,4 +15,8 @@
 <use name="DataFormats/TrackReco"/>
 <use name="RecoVertex/KalmanVertexFit"/>
 <use name="RecoVertex/VertexPrimitives"/>
+<use name="PhysicsTools/XGBoost"/>
+<use name="xgboost"/>
+<use name="PhysicsTools/PatAlgos"/>
+
 <flags EDM_PLUGIN="1"/>

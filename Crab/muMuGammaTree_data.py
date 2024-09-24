@@ -54,6 +54,8 @@ process.tree = cms.EDAnalyzer('MuMuGammaTreeMaker',
                                       prunedGenParticles  = cms.InputTag("prunedGenParticles"),
                                       packedGenParticles  = cms.InputTag("packedGenParticles"),
                                       doGEN = cms.bool( False ),
+                                      doSoftMuonMVA     = cms.bool( True ),
+                                      softMvaRun3Model  = cms.string("RecoMuon/MuonIdentification/data/Run2022-20231030-1731-Event0"),
                                       primaryVertices  = cms.InputTag("offlineSlimmedPrimaryVertices"),
                                       displacedVertices  = cms.InputTag("slimmedSecondaryVertices"),
                                   )

@@ -39,8 +39,51 @@ process.load('Configuration.StandardSequences.FrontierConditions_GlobalTag_cff')
 from Configuration.AlCa.GlobalTag import GlobalTag
 process.GlobalTag = GlobalTag(process.GlobalTag, '124X_dataRun3_Prompt_v4', '')
 
-#L1Info = ["L1_DoubleMu4_SQ_OS_dR_Max1p2","L1_DoubleMu4p5_SQ_OS_dR_Max1p2","L1_DoubleMu3er2p0_SQ_OS_dR_Max1p4","L1_DoubleMu0er1p4_OQ_OS_dEta_Max1p6","L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p6(5)","L1_DoubleMu0er1p5(4)_SQ_OS_dR_Max1p4"]
-L1Info = ["L1_DoubleMu3er2p0_SQ_OS_dR_Max1p4","L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p6","L1_DoubleMu0er1p4_OQ_OS_dEta_Max1p6","L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p5","L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4","L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4","L1_DoubleMu4p5_SQ_OS_dR_Max1p2","L1_DoubleMu4_SQ_OS_dR_Max1p2"]
+# 2022: run 362616
+L1Info = [
+    "L1_DoubleMu3er2p0_SQ_OS_dR_Max1p4", 
+    "L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p6", 
+    "L1_DoubleMu0er1p4_OQ_OS_dEta_Max1p6", 
+    "L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p5", 
+    "L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4", 
+    "L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4", 
+    "L1_DoubleMu4p5_SQ_OS_dR_Max1p2", 
+    "L1_DoubleMu4_SQ_OS_dR_Max1p2"
+    ]
+
+
+# 2023: run 370725
+L1Info =  [
+    'L1_DoubleMu0er1p4_SQ_OS_dEta_Max1p2', 
+    'L1_DoubleMu4er2p0_SQ_OS_dR_Max1p6', 
+    'L1_DoubleMu5_SQ_OS_dR_Max1p6', 
+    'L1_DoubleMu3er2p0_SQ_OS_dR_Max1p6', 
+    'L1_DoubleMu0er1p5_SQ_OS_dEta_Max1p2', 
+    'L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p6', 
+    'L1_DoubleMu0er1p4_OQ_OS_dEta_Max1p6', 
+    'L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p5', 
+    'L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4', 
+    'L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4', 
+    'L1_DoubleMu4p5_SQ_OS_dR_Max1p2', 
+    'L1_DoubleMu4_SQ_OS_dR_Max1p2'
+    ]
+
+# 2024: run 383779
+L1Info =  [
+    "L1_DoubleMu0er1p4_SQ_OS_dEta_Max1p2", 
+    "L1_DoubleMu4er2p0_SQ_OS_dR_Max1p6", 
+    "L1_DoubleMu5_SQ_OS_dR_Max1p6", 
+    "L1_DoubleMu3er2p0_SQ_OS_dR_Max1p6", 
+    "L1_DoubleMu0er1p5_SQ_OS_dEta_Max1p2", 
+    "L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p6", 
+    "L1_DoubleMu0er1p4_OQ_OS_dEta_Max1p6", 
+    "L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p5", 
+    "L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4", 
+    "L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4", 
+    "L1_DoubleMu4p5_SQ_OS_dR_Max1p2", 
+    "L1_DoubleMu4_SQ_OS_dR_Max1p2"
+]
+
 process.tree = cms.EDAnalyzer('MuMuGammaTreeMaker',
                                       triggerresults   = cms.InputTag("TriggerResults", "", "HLT"),
                                       ReadPrescalesFromFile = cms.bool( False ),

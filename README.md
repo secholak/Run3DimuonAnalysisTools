@@ -20,6 +20,11 @@ voms-proxy-init --voms cms
 cmsRun muMuGammaTree.py
 ```
 
+### Script settings
+
+x-check if `L1Info` list has changed if adding a new dataset, for ex 2025.
+
+
 #### Run on all ParkingDoubleMuonLowMass datasets
 Start parallel CRAB jobs on Run2022F/ParkingDoubleMuonLowMass0-7 datasets:
 (Modify datasets and job name in crabConfigMuMuGammaTree.py as necessary)

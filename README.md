@@ -20,7 +20,7 @@ voms-proxy-init --voms cms
 cmsRun muMuGammaTree.py
 ```
 
-### Script settings
+#### Script settings
 
 x-check if `L1Info` list has changed if adding a new dataset, for ex 2025.
 
@@ -35,3 +35,8 @@ source /cvmfs/cms.cern.ch/common/crab-setup.sh
 voms-proxy-init --voms cms
 python3 crabConfigMuMuGammaTree.py
 ```
+
+#### Collect job outputs
+
+Check if the jobs are finished with `CRAB/get_jobs_status.py`.
+Then collect a list of the output files to be used in the histograms production with `CRAB/get_output_list.py`.

@@ -81,6 +81,176 @@
 #include "MMGUtils.hh"
 
 
+
+
+// /////////// Helper for the matching
+
+
+struct MuonGenInfo {
+
+    bool matched = false;
+
+    int genMuonPdgId = 0;
+
+    int motherID = 0;
+    int grandMotherID = 0;
+    int greatGrandMotherID = 0;
+
+    int nSisters = 0;
+    std::vector<int> sisterIDs;
+};
+
+
+MuonGenInfo matchMuonToGen(
+        const pat::Muon& mu,
+        const edm::Handle<std::vector<reco::GenParticle>>& prunedGenParticles)
+{
+    MuonGenInfo info;
+
+    //------------------------------------------
+    // Find best matching stable gen muon
+    //------------------------------------------
+
+    const reco::GenParticle* best = nullptr;
+
+    double bestDR = 0.05;
+
+    for (const auto& gp : *prunedGenParticles) {
+
+        if (std::abs(gp.pdgId()) != 13)
+            continue;
+
+        // keep only stable generator muons
+        if (gp.status() != 1)
+            continue;
+
+        double dR = reco::deltaR(mu.eta(), mu.phi(),
+                                 gp.eta(), gp.phi());
+
+        if (dR > bestDR)
+            continue;
+
+        double relPt = std::abs(mu.pt()-gp.pt())/gp.pt();
+
+        if (relPt > 0.5)
+            continue;
+
+        best = &gp;
+        bestDR = dR;
+    }
+
+    if (!best)
+        return info;
+
+    info.matched = true;
+    info.genMuonPdgId = best->pdgId();
+
+    //------------------------------------------
+    // Skip generator muon copies:
+    //
+    // mu -> mu -> mu -> pi
+    //
+    //------------------------------------------
+
+    const reco::Candidate* p = best;
+
+    while (p->numberOfMothers()) {
+
+        const reco::Candidate* mom = p->mother(0);
+
+        if (std::abs(mom->pdgId()) != 13)
+            break;
+
+        p = mom;
+    }
+
+    //------------------------------------------
+    // First non-muon ancestor
+    //------------------------------------------
+
+    if (!p->numberOfMothers())
+        return info;
+
+    const reco::Candidate* mother = p->mother(0);
+
+    info.motherID = mother->pdgId();
+
+    //------------------------------------------
+    // Grandmother
+    //------------------------------------------
+
+    const reco::Candidate* grandmother = nullptr;
+
+    if (mother->numberOfMothers()) {
+
+        grandmother = mother->mother(0);
+
+        // skip copies
+        while (grandmother->numberOfMothers() &&
+               grandmother->mother(0)->pdgId() == grandmother->pdgId())
+            grandmother = grandmother->mother(0);
+
+        info.grandMotherID = grandmother->pdgId();
+    }
+
+    //------------------------------------------
+    // Great-grandmother
+    //------------------------------------------
+
+    if (grandmother && grandmother->numberOfMothers()) {
+
+        const reco::Candidate* ggm = grandmother->mother(0);
+
+        while (ggm->numberOfMothers() &&
+               ggm->mother(0)->pdgId() == ggm->pdgId())
+            ggm = ggm->mother(0);
+
+        info.greatGrandMotherID = ggm->pdgId();
+    }
+
+    //------------------------------------------
+    // Sisters of the first non-muon ancestor
+    //
+    // Example:
+    //
+    // B
+    //  |
+    //  +--> pi   <-- motherID
+    //  |
+    //  +--> K
+    //  |
+    //  +--> gamma
+    //
+    //------------------------------------------
+
+    if (mother->numberOfMothers()) {
+
+        const reco::Candidate* parent = mother->mother(0);
+
+        for (unsigned int i = 0; i < parent->numberOfDaughters(); ++i) {
+
+            const reco::Candidate* sister = parent->daughter(i);
+
+            if (sister == mother)
+                continue;
+
+            info.nSisters++;
+
+            if (info.sisterIDs.size() < 5)
+                info.sisterIDs.push_back(sister->pdgId());
+        }
+    }
+
+    return info;
+}
+
+
+
+
+
+
+
+
 //
 // class declaration
 //
@@ -255,6 +425,18 @@ private:
   // bool isRho2Pi0MuMu; //not observed?
   bool isPhi2MuMu;
   bool isPhi2KK;
+
+  int mu1MotherID;
+  int mu1GrandMotherID;
+  int mu1GreatGrandMotherID;
+  int mu1NSisters;
+  std::vector<int> mu1SisterIDs;
+
+  int mu2MotherID;
+  int mu2GrandMotherID;
+  int mu2GreatGrandMotherID;
+  int mu2NSisters;
+  std::vector<int> mu2SisterIDs;
 
   
 
@@ -659,105 +841,126 @@ void MuMuGammaTreeMaker::analyze(const edm::Event& iEvent, const edm::EventSetup
     isPhi2MuMu            = false;
     isPhi2KK              = false;
 
-    if (doGEN and (mass < 2.0) and (motherID1 == motherID2)) {
-
+    if (doGEN and (mass < 2.0)){
         Handle<vector<reco::GenParticle> > prunedGenParticles;
         iEvent.getByToken(prunedGenToken, prunedGenParticles);
 
-        Handle<vector<pat::PackedGenParticle> > packedGenParticles;
-        iEvent.getByToken(packedGenToken, packedGenParticles);
 
-        // create and refer pointers of positive and negative reco muons separately 
-	      TLorentzVector *mup_reco;
-	      TLorentzVector *mum_reco;
-        if( mu1_id == 13) {
-          mum_reco = &mu1;
-          mup_reco = &mu2;
-        }
-        else {
-          mum_reco = &mu2;
-          mup_reco = &mu1;
-        }
+        MuonGenInfo mu1_info = matchMuonToGen(muonsH->at(idx[0]), prunedGenParticles);
+        MuonGenInfo mu2_info = matchMuonToGen(muonsH->at(idx[1]), prunedGenParticles);
 
-        for (auto genp = prunedGenParticles->begin(); genp != prunedGenParticles->end(); ++genp) {            
-            if (abs(genp->pdgId())==221 or abs(genp->pdgId())==113 or abs(genp->pdgId())==223 or abs(genp->pdgId())==331 or abs(genp->pdgId()==333)) {
-                // std::cout<<"genp id: "<<genp->pdgId()<<" pt: "<<genp->pt()<<" eta: "<<genp->eta()<<" status: "<<genp->status();
-                    int nDaughterMuons = 0;
-                    int mup_idx = 99;
-                    int mum_idx = 99;
+        mu1MotherID      = mu1_info.motherID;
+        mu1GrandMotherID = mu1_info.grandMotherID;
+        mu1GreatGrandMotherID = mu1_info.greatGrandMotherID;
+        mu1NSisters      = mu1_info.nSisters;
+        mu1SisterIDs     = mu1_info.sisterIDs;
 
-                    for (int i=0; i<(int)genp->numberOfDaughters(); ++i) {
+        mu2MotherID      = mu2_info.motherID;
+        mu2GrandMotherID = mu2_info.grandMotherID;
+        mu2GreatGrandMotherID = mu2_info.greatGrandMotherID;
+        mu2NSisters      = mu2_info.nSisters;
+        mu2SisterIDs     = mu2_info.sisterIDs;
 
-                      // check if muons and save idx of daughters
-                      if (genp->daughter(i)->pdgId()==13){
-                        mum_idx = i;
-                        nDaughterMuons+=1;
-                      } else if  (genp->daughter(i)->pdgId()== -13){
-                        mup_idx = i;
-                        nDaughterMuons+=1;
-                      }
-            
-                    }
-                    if (nDaughterMuons==2) {
-                      // try to match pair of reco muons with a pair of daughters
-                      auto daught_mup =  &(*genp->daughter(mup_idx));
-                      auto daught_mum =  &(*genp->daughter(mum_idx));
 
-                      matchedDaughtersIDs.clear();
-                      // std::cout<<"Mother with 2 muons ID == " << genp->pdgId() <<std::endl;
+
+        // old algo, mathing mesons
+        if (motherID1 == motherID2){
+
+          Handle<vector<pat::PackedGenParticle> > packedGenParticles;
+          iEvent.getByToken(packedGenToken, packedGenParticles);
+
+          // create and refer pointers of positive and negative reco muons separately 
+          TLorentzVector *mup_reco;
+          TLorentzVector *mum_reco;
+          if( mu1_id == 13) {
+            mum_reco = &mu1;
+            mup_reco = &mu2;
+          }
+          else {
+            mum_reco = &mu2;
+            mup_reco = &mu1;
+          }
+
+          for (auto genp = prunedGenParticles->begin(); genp != prunedGenParticles->end(); ++genp) {            
+              if (abs(genp->pdgId())==221 or abs(genp->pdgId())==113 or abs(genp->pdgId())==223 or abs(genp->pdgId())==331 or abs(genp->pdgId()==333)) {
+                  // std::cout<<"genp id: "<<genp->pdgId()<<" pt: "<<genp->pt()<<" eta: "<<genp->eta()<<" status: "<<genp->status();
+                      int nDaughterMuons = 0;
+                      int mup_idx = 99;
+                      int mum_idx = 99;
+
                       for (int i=0; i<(int)genp->numberOfDaughters(); ++i) {
-                        matchedDaughtersIDs.push_back(genp->daughter(i)->pdgId());
-                        // std::cout<<"Daughter "<< i << "  ID == " << genp->daughter(i)->pdgId()<<std::endl;
-                      }
 
-                      if (isMatched(daught_mup, mup_reco, mu_mass) and isMatched(daught_mum, mum_reco, mu_mass)){
-                        motherGenID = genp->pdgId();
-                        mupGenID = daught_mup->pdgId();
-                        mumGenID = daught_mum->pdgId();
-                        // std::cout<<"Matched "<< daught_mup->pt() << "  " << mup_reco->Pt() << "  " << daught_mum->pt() << "  " << mum_reco->Pt() << "for mother ID == " << motherGenID <<std::endl;
-                        //check for photons
-                        int nPhotons = 0;
-                        mathedPhotonPt.clear();
-                        mathedPhotonEta.clear();
-                        mathedPhotonPhi.clear();
-                        
-                        // look for photons
-                        for (auto pgp = packedGenParticles->begin(); pgp != packedGenParticles->end(); ++pgp) {
-                          // derefference and cast to the base class to make direct comparison
-                          const reco::Candidate* pgpPtr = &(*pgp);
-                          if (pgp->pdgId()==22 and isAncestor( &(*genp) , pgpPtr)) {
-                              std::cout<<"packed photon "<<pgp->pt()<<" mother pt: "<<pgp->motherRef()->pt()<<std::endl;
-                              mathedPhotonPt.push_back( pgp->pt());
-                              mathedPhotonEta.push_back( pgp->eta());
-                              mathedPhotonPhi.push_back( pgp->phi());
-                              nPhotons++;
-                              
-                          }
-                          }
-                        bool aPi0 = false;
-                        // check if 2 photons make a pi0
-                        if (nPhotons == 2){
-                          aPi0 = isPi0( mathedPhotonPt, mathedPhotonEta, mathedPhotonPhi);
-                          // if (aPi0) std::cout<<"Matched pi0 to two photons!" <<std::endl;
+                        // check if muons and save idx of daughters
+                        if (genp->daughter(i)->pdgId()==13){
+                          mum_idx = i;
+                          nDaughterMuons+=1;
+                        } else if  (genp->daughter(i)->pdgId()== -13){
+                          mup_idx = i;
+                          nDaughterMuons+=1;
+                        }
+              
+                      }
+                      if (nDaughterMuons==2) {
+                        // try to match pair of reco muons with a pair of daughters
+                        auto daught_mup =  &(*genp->daughter(mup_idx));
+                        auto daught_mum =  &(*genp->daughter(mum_idx));
+
+                        matchedDaughtersIDs.clear();
+                        // std::cout<<"Mother with 2 muons ID == " << genp->pdgId() <<std::endl;
+                        for (int i=0; i<(int)genp->numberOfDaughters(); ++i) {
+                          matchedDaughtersIDs.push_back(genp->daughter(i)->pdgId());
+                          // std::cout<<"Daughter "<< i << "  ID == " << genp->daughter(i)->pdgId()<<std::endl;
                         }
 
-                        // isPhi2KK
-                        if      ((abs(genp->pdgId()) == 221) and (nPhotons == 0)) isEta2MuMu = true;
-                        else if ((abs(genp->pdgId()) == 221) and (nPhotons == 1))    isEta2MuMuGamma = true;
-                        else if ((abs(genp->pdgId()) == 331) and (nPhotons == 0)) isEtaPrime2MuMu = true;
-                        else if ((abs(genp->pdgId()) == 331) and (nPhotons == 1))    isEtaPrime2MuMuGamma = true;
-                        else if ((abs(genp->pdgId()) == 223) and (nPhotons == 0)) isOmega2MuMu = true;
-                        else if ((abs(genp->pdgId()) == 223) and aPi0)    isOmega2Pi0MuMu = true;      
-                        else if ((abs(genp->pdgId()) == 113) and (nPhotons == 0)) isRho2MuMu = true;
-                        else if ((abs(genp->pdgId()) == 333) and (nPhotons == 0)) isPhi2MuMu = true;
-                      }
-                    }
-            }
-        }
+                        if (isMatched(daught_mup, mup_reco, mu_mass) and isMatched(daught_mum, mum_reco, mu_mass)){
+                          motherGenID = genp->pdgId();
+                          mupGenID = daught_mup->pdgId();
+                          mumGenID = daught_mum->pdgId();
+                          // std::cout<<"Matched "<< daught_mup->pt() << "  " << mup_reco->Pt() << "  " << daught_mum->pt() << "  " << mum_reco->Pt() << "for mother ID == " << motherGenID <<std::endl;
+                          //check for photons
+                          int nPhotons = 0;
+                          mathedPhotonPt.clear();
+                          mathedPhotonEta.clear();
+                          mathedPhotonPhi.clear();
+                          
+                          // look for photons
+                          for (auto pgp = packedGenParticles->begin(); pgp != packedGenParticles->end(); ++pgp) {
+                            // derefference and cast to the base class to make direct comparison
+                            const reco::Candidate* pgpPtr = &(*pgp);
+                            if (pgp->pdgId()==22 and isAncestor( &(*genp) , pgpPtr)) {
+                                std::cout<<"packed photon "<<pgp->pt()<<" mother pt: "<<pgp->motherRef()->pt()<<std::endl;
+                                mathedPhotonPt.push_back( pgp->pt());
+                                mathedPhotonEta.push_back( pgp->eta());
+                                mathedPhotonPhi.push_back( pgp->phi());
+                                nPhotons++;
+                                
+                            }
+                            }
+                          bool aPi0 = false;
+                          // check if 2 photons make a pi0
+                          if (nPhotons == 2){
+                            aPi0 = isPi0( mathedPhotonPt, mathedPhotonEta, mathedPhotonPhi);
+                            // if (aPi0) std::cout<<"Matched pi0 to two photons!" <<std::endl;
+                          }
 
-        
-            
-    }
+                          // isPhi2KK
+                          if      ((abs(genp->pdgId()) == 221) and (nPhotons == 0)) isEta2MuMu = true;
+                          else if ((abs(genp->pdgId()) == 221) and (nPhotons == 1))    isEta2MuMuGamma = true;
+                          else if ((abs(genp->pdgId()) == 331) and (nPhotons == 0)) isEtaPrime2MuMu = true;
+                          else if ((abs(genp->pdgId()) == 331) and (nPhotons == 1))    isEtaPrime2MuMuGamma = true;
+                          else if ((abs(genp->pdgId()) == 223) and (nPhotons == 0)) isOmega2MuMu = true;
+                          else if ((abs(genp->pdgId()) == 223) and aPi0)    isOmega2Pi0MuMu = true;      
+                          else if ((abs(genp->pdgId()) == 113) and (nPhotons == 0)) isRho2MuMu = true;
+                          else if ((abs(genp->pdgId()) == 333) and (nPhotons == 0)) isPhi2MuMu = true;
+                        }
+                      }
+              }
+          }
+
+          
+              
+      }
+      }
     
     tree->Fill();
   }
@@ -865,6 +1068,20 @@ void MuMuGammaTreeMaker::beginJob() {
 
     tree->Branch("custom_softMvaRun3Value1"                , &custom_softMvaRun3Value1                          , "custom_softMvaRun3Value1/F"  );
     tree->Branch("custom_softMvaRun3Value2"                , &custom_softMvaRun3Value2                          , "custom_softMvaRun3Value2/F"  );
+
+
+    // fill the matched info of rand mothers
+    tree->Branch("mu1MotherID"             , &mu1MotherID             , "mu1MotherID/I"   );
+    tree->Branch("mu1GrandMotherID"        , &mu1GrandMotherID        , "mu1GrandMotherID/I"   );
+    tree->Branch("mu1GreatGrandMotherID"   , &mu1GreatGrandMotherID   , "mu1GreatGrandMotherID/I"   );
+    tree->Branch("mu1NSisters"             , &mu1NSisters             , "mu1NSisters/I"   );
+    tree->Branch("mu1SisterIDs"  , "std::vector<int>"  , &mu1SisterIDs, 32000, 0);
+
+    tree->Branch("mu2MotherID"             , &mu2MotherID             , "mu2MotherID/I"   );
+    tree->Branch("mu2GrandMotherID"        , &mu2GrandMotherID        , "mu2GrandMotherID/I"   );
+    tree->Branch("mu2GreatGrandMotherID"   , &mu2GreatGrandMotherID   , "mu2GreatGrandMotherID/I"   );
+    tree->Branch("mu2NSisters"             , &mu2NSisters             , "mu2NSisters/I"   );
+    tree->Branch("mu2SisterIDs"  , "std::vector<int>"  , &mu2SisterIDs, 32000, 0);
 
 }
 

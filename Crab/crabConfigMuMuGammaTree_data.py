@@ -17,7 +17,7 @@ config.JobType.psetName = 'muMuGammaTree_data.py'
 # config.Data.lumiMask = 'Cert_Collisions2023_366442_370790_Golden.json'
 
 # 2024 
-config.Data.lumiMask = "Cert_Collisions2024_378981_386951_Golden.json"
+config.Data.lumiMask = "Cert_Collisions2025_391658_398903_Golden.json"
 # Where the output files will be transmitted to
 config.Site.storageSite = 'T2_US_MIT'
 
@@ -25,107 +25,110 @@ if __name__ == '__main__':
 
     from CRABAPI.RawCommand import crabCommand
 
-    datasets = [
+    with open("datasets_2025CDEFG.txt") as f:
+        datasets = [line.strip() for line in f if line.strip() and not line.strip().startswith("#")]
+
+    # datasets = [
 
 
-        # 2024B, 0.130/fb
-        '/ParkingDoubleMuonLowMass0/Run2024B-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass1/Run2024B-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass2/Run2024B-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass3/Run2024B-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass4/Run2024B-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass5/Run2024B-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass6/Run2024B-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass7/Run2024B-PromptReco-v1/MINIAOD',
+    #     # 2024B, 0.130/fb
+    #     '/ParkingDoubleMuonLowMass0/Run2024B-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass1/Run2024B-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass2/Run2024B-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass3/Run2024B-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass4/Run2024B-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass5/Run2024B-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass6/Run2024B-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass7/Run2024B-PromptReco-v1/MINIAOD',
 
-        # 2024C, 7.238/fb
-        '/ParkingDoubleMuonLowMass0/Run2024C-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass1/Run2024C-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass2/Run2024C-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass3/Run2024C-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass4/Run2024C-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass5/Run2024C-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass6/Run2024C-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass7/Run2024C-PromptReco-v1/MINIAOD',
+    #     # 2024C, 7.238/fb
+    #     '/ParkingDoubleMuonLowMass0/Run2024C-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass1/Run2024C-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass2/Run2024C-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass3/Run2024C-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass4/Run2024C-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass5/Run2024C-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass6/Run2024C-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass7/Run2024C-PromptReco-v1/MINIAOD',
 
-        # 2024D, 7.957/fb
-        '/ParkingDoubleMuonLowMass0/Run2024D-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass1/Run2024D-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass2/Run2024D-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass3/Run2024D-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass4/Run2024D-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass5/Run2024D-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass6/Run2024D-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass7/Run2024D-PromptReco-v1/MINIAOD',
+    #     # 2024D, 7.957/fb
+    #     '/ParkingDoubleMuonLowMass0/Run2024D-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass1/Run2024D-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass2/Run2024D-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass3/Run2024D-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass4/Run2024D-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass5/Run2024D-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass6/Run2024D-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass7/Run2024D-PromptReco-v1/MINIAOD',
 
-        # 2024E, 11.319/fb
-        '/ParkingDoubleMuonLowMass0/Run2024E-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass1/Run2024E-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass2/Run2024E-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass3/Run2024E-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass4/Run2024E-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass5/Run2024E-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass6/Run2024E-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass7/Run2024E-PromptReco-v1/MINIAOD',
+    #     # 2024E, 11.319/fb
+    #     '/ParkingDoubleMuonLowMass0/Run2024E-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass1/Run2024E-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass2/Run2024E-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass3/Run2024E-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass4/Run2024E-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass5/Run2024E-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass6/Run2024E-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass7/Run2024E-PromptReco-v1/MINIAOD',
 
-        '/ParkingDoubleMuonLowMass0/Run2024E-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass1/Run2024E-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass2/Run2024E-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass3/Run2024E-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass4/Run2024E-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass5/Run2024E-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass6/Run2024E-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass7/Run2024E-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass0/Run2024E-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass1/Run2024E-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass2/Run2024E-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass3/Run2024E-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass4/Run2024E-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass5/Run2024E-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass6/Run2024E-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass7/Run2024E-PromptReco-v2/MINIAOD',
 
-        # 2024F, 27.790/fb
-        '/ParkingDoubleMuonLowMass0/Run2024F-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass1/Run2024F-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass2/Run2024F-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass3/Run2024F-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass4/Run2024F-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass5/Run2024F-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass6/Run2024F-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass7/Run2024F-PromptReco-v1/MINIAOD',
+    #     # 2024F, 27.790/fb
+    #     '/ParkingDoubleMuonLowMass0/Run2024F-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass1/Run2024F-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass2/Run2024F-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass3/Run2024F-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass4/Run2024F-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass5/Run2024F-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass6/Run2024F-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass7/Run2024F-PromptReco-v1/MINIAOD',
 
 
-        # 2024G, 37/fb
-        '/ParkingDoubleMuonLowMass0/Run2024G-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass1/Run2024G-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass2/Run2024G-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass3/Run2024G-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass4/Run2024G-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass5/Run2024G-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass6/Run2024G-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass7/Run2024G-PromptReco-v1/MINIAOD',
+    #     # 2024G, 37/fb
+    #     '/ParkingDoubleMuonLowMass0/Run2024G-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass1/Run2024G-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass2/Run2024G-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass3/Run2024G-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass4/Run2024G-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass5/Run2024G-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass6/Run2024G-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass7/Run2024G-PromptReco-v1/MINIAOD',
 
-        # 2024H, 5.44/fb
-        '/ParkingDoubleMuonLowMass0/Run2024H-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass1/Run2024H-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass2/Run2024H-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass3/Run2024H-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass4/Run2024H-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass5/Run2024H-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass6/Run2024H-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass7/Run2024H-PromptReco-v1/MINIAOD',
+    #     # 2024H, 5.44/fb
+    #     '/ParkingDoubleMuonLowMass0/Run2024H-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass1/Run2024H-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass2/Run2024H-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass3/Run2024H-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass4/Run2024H-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass5/Run2024H-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass6/Run2024H-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass7/Run2024H-PromptReco-v1/MINIAOD',
 
-        # 2024I, 11.47/fb
-        '/ParkingDoubleMuonLowMass0/Run2024I-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass1/Run2024I-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass2/Run2024I-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass3/Run2024I-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass4/Run2024I-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass5/Run2024I-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass6/Run2024I-PromptReco-v1/MINIAOD',
-        '/ParkingDoubleMuonLowMass7/Run2024I-PromptReco-v1/MINIAOD',
+    #     # 2024I, 11.47/fb
+    #     '/ParkingDoubleMuonLowMass0/Run2024I-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass1/Run2024I-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass2/Run2024I-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass3/Run2024I-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass4/Run2024I-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass5/Run2024I-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass6/Run2024I-PromptReco-v1/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass7/Run2024I-PromptReco-v1/MINIAOD',
 
-        '/ParkingDoubleMuonLowMass0/Run2024I-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass1/Run2024I-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass2/Run2024I-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass3/Run2024I-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass4/Run2024I-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass5/Run2024I-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass6/Run2024I-PromptReco-v2/MINIAOD',
-        '/ParkingDoubleMuonLowMass7/Run2024I-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass0/Run2024I-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass1/Run2024I-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass2/Run2024I-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass3/Run2024I-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass4/Run2024I-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass5/Run2024I-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass6/Run2024I-PromptReco-v2/MINIAOD',
+    #     '/ParkingDoubleMuonLowMass7/Run2024I-PromptReco-v2/MINIAOD',
 
 
 
@@ -251,9 +254,9 @@ if __name__ == '__main__':
         # '/ParkingDoubleMuonLowMass6/Run2022G-PromptReco-v1/MINIAOD',
         # '/ParkingDoubleMuonLowMass7/Run2022G-PromptReco-v1/MINIAOD',
 
-    ]
+    # ]
     
     for dataset in datasets:
         config.Data.inputDataset = dataset
-        config.General.requestName = "muMuGamma_03Dec24_" + dataset.split('/')[1] +  dataset.split('/')[2]
+        config.General.requestName = "muMuGamma_24Jul26_" + dataset.split('/')[1] +  dataset.split('/')[2]
         crabCommand('submit', config = config)

@@ -1,0 +1,1298 @@
+Rucio client intialized for account charlesf
+Rucio client intialized for account charlesf
+=== Files from job 1:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_1.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_1.root
+=== Files from job 10:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_10.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_10.root
+=== Files from job 100:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_100.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_100.root
+=== Files from job 101:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_101.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_101.root
+=== Files from job 102:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_102.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_102.root
+=== Files from job 103:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_103.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_103.root
+=== Files from job 104:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_104.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_104.root
+=== Files from job 105:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_105.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_105.root
+=== Files from job 106:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_106.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_106.root
+=== Files from job 107:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_107.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_107.root
+=== Files from job 108:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_108.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_108.root
+=== Files from job 109:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_109.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_109.root
+=== Files from job 11:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_11.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_11.root
+=== Files from job 110:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_110.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_110.root
+=== Files from job 111:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_111.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_111.root
+=== Files from job 112:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_112.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_112.root
+=== Files from job 113:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_113.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_113.root
+=== Files from job 114:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_114.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_114.root
+=== Files from job 115:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_115.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_115.root
+=== Files from job 116:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_116.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_116.root
+=== Files from job 117:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_117.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_117.root
+=== Files from job 118:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_118.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_118.root
+=== Files from job 119:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_119.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_119.root
+=== Files from job 12:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_12.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_12.root
+=== Files from job 120:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_120.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_120.root
+=== Files from job 121:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_121.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_121.root
+=== Files from job 122:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_122.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_122.root
+=== Files from job 123:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_123.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_123.root
+=== Files from job 124:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_124.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_124.root
+=== Files from job 125:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_125.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_125.root
+=== Files from job 126:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_126.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_126.root
+=== Files from job 127:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_127.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_127.root
+=== Files from job 128:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_128.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_128.root
+=== Files from job 129:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_129.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_129.root
+=== Files from job 13:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_13.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_13.root
+=== Files from job 130:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_130.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_130.root
+=== Files from job 131:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_131.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_131.root
+=== Files from job 132:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_132.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_132.root
+=== Files from job 133:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_133.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_133.root
+=== Files from job 134:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_134.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_134.root
+=== Files from job 135:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_135.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_135.root
+=== Files from job 136:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_136.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_136.root
+=== Files from job 137:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_137.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_137.root
+=== Files from job 138:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_138.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_138.root
+=== Files from job 139:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_139.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_139.root
+=== Files from job 14:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_14.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_14.root
+=== Files from job 140:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_140.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_140.root
+=== Files from job 141:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_141.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_141.root
+=== Files from job 142:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_142.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_142.root
+=== Files from job 143:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_143.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_143.root
+=== Files from job 144:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_144.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_144.root
+=== Files from job 145:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_145.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_145.root
+=== Files from job 146:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_146.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_146.root
+=== Files from job 147:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_147.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_147.root
+=== Files from job 148:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_148.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_148.root
+=== Files from job 149:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_149.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_149.root
+=== Files from job 15:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_15.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_15.root
+=== Files from job 150:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_150.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_150.root
+=== Files from job 151:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_151.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_151.root
+=== Files from job 152:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_152.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_152.root
+=== Files from job 153:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_153.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_153.root
+=== Files from job 154:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_154.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_154.root
+=== Files from job 155:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_155.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_155.root
+=== Files from job 156:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_156.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_156.root
+=== Files from job 157:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_157.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_157.root
+=== Files from job 158:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_158.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_158.root
+=== Files from job 159:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_159.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_159.root
+=== Files from job 16:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_16.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_16.root
+=== Files from job 160:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_160.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_160.root
+=== Files from job 161:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_161.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_161.root
+=== Files from job 162:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_162.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_162.root
+=== Files from job 163:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_163.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_163.root
+=== Files from job 164:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_164.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_164.root
+=== Files from job 165:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_165.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_165.root
+=== Files from job 166:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_166.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_166.root
+=== Files from job 167:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_167.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_167.root
+=== Files from job 168:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_168.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_168.root
+=== Files from job 169:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_169.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_169.root
+=== Files from job 17:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_17.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_17.root
+=== Files from job 170:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_170.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_170.root
+=== Files from job 171:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_171.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_171.root
+=== Files from job 172:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_172.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_172.root
+=== Files from job 173:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_173.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_173.root
+=== Files from job 174:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_174.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_174.root
+=== Files from job 175:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_175.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_175.root
+=== Files from job 176:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_176.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_176.root
+=== Files from job 177:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_177.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_177.root
+=== Files from job 178:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_178.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_178.root
+=== Files from job 179:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_179.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_179.root
+=== Files from job 18:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_18.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_18.root
+=== Files from job 180:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_180.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_180.root
+=== Files from job 181:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_181.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_181.root
+=== Files from job 182:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_182.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_182.root
+=== Files from job 183:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_183.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_183.root
+=== Files from job 184:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_184.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_184.root
+=== Files from job 185:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_185.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_185.root
+=== Files from job 186:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_186.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_186.root
+=== Files from job 187:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_187.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_187.root
+=== Files from job 188:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_188.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_188.root
+=== Files from job 189:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_189.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_189.root
+=== Files from job 19:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_19.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_19.root
+=== Files from job 190:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_190.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_190.root
+=== Files from job 191:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_191.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_191.root
+=== Files from job 192:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_192.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_192.root
+=== Files from job 193:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_193.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_193.root
+=== Files from job 194:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_194.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_194.root
+=== Files from job 195:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_195.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_195.root
+=== Files from job 196:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_196.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_196.root
+=== Files from job 197:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_197.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_197.root
+=== Files from job 198:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_198.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_198.root
+=== Files from job 199:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_199.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_199.root
+=== Files from job 2:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_2.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_2.root
+=== Files from job 20:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_20.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_20.root
+=== Files from job 200:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_200.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_200.root
+=== Files from job 201:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_201.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_201.root
+=== Files from job 202:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_202.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_202.root
+=== Files from job 203:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_203.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_203.root
+=== Files from job 204:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_204.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_204.root
+=== Files from job 205:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_205.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_205.root
+=== Files from job 206:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_206.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_206.root
+=== Files from job 207:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_207.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_207.root
+=== Files from job 208:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_208.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_208.root
+=== Files from job 209:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_209.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_209.root
+=== Files from job 21:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_21.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_21.root
+=== Files from job 210:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_210.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_210.root
+=== Files from job 211:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_211.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_211.root
+=== Files from job 212:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_212.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_212.root
+=== Files from job 213:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_213.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_213.root
+=== Files from job 214:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_214.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_214.root
+=== Files from job 215:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_215.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_215.root
+=== Files from job 216:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_216.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_216.root
+=== Files from job 217:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_217.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_217.root
+=== Files from job 218:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_218.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_218.root
+=== Files from job 219:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_219.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_219.root
+=== Files from job 22:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_22.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_22.root
+=== Files from job 220:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_220.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_220.root
+=== Files from job 221:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_221.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_221.root
+=== Files from job 222:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_222.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_222.root
+=== Files from job 223:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_223.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_223.root
+=== Files from job 224:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_224.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_224.root
+=== Files from job 225:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_225.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_225.root
+=== Files from job 226:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_226.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_226.root
+=== Files from job 227:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_227.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_227.root
+=== Files from job 228:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_228.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_228.root
+=== Files from job 229:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_229.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_229.root
+=== Files from job 23:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_23.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_23.root
+=== Files from job 230:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_230.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_230.root
+=== Files from job 231:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_231.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_231.root
+=== Files from job 232:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_232.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_232.root
+=== Files from job 233:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_233.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_233.root
+=== Files from job 234:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_234.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_234.root
+=== Files from job 235:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_235.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_235.root
+=== Files from job 236:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_236.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_236.root
+=== Files from job 237:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_237.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_237.root
+=== Files from job 238:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_238.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_238.root
+=== Files from job 239:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_239.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_239.root
+=== Files from job 24:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_24.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_24.root
+=== Files from job 240:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_240.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_240.root
+=== Files from job 241:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_241.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_241.root
+=== Files from job 242:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_242.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_242.root
+=== Files from job 243:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_243.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_243.root
+=== Files from job 244:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_244.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_244.root
+=== Files from job 245:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_245.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_245.root
+=== Files from job 246:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_246.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_246.root
+=== Files from job 247:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_247.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_247.root
+=== Files from job 248:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_248.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_248.root
+=== Files from job 249:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_249.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_249.root
+=== Files from job 25:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_25.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_25.root
+=== Files from job 250:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_250.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_250.root
+=== Files from job 251:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_251.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_251.root
+=== Files from job 252:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_252.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_252.root
+=== Files from job 253:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_253.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_253.root
+=== Files from job 254:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_254.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_254.root
+=== Files from job 255:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_255.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_255.root
+=== Files from job 256:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_256.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_256.root
+=== Files from job 257:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_257.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_257.root
+=== Files from job 258:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_258.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_258.root
+=== Files from job 259:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_259.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_259.root
+=== Files from job 26:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_26.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_26.root
+=== Files from job 260:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_260.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_260.root
+=== Files from job 261:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_261.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_261.root
+=== Files from job 262:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_262.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_262.root
+=== Files from job 263:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_263.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_263.root
+=== Files from job 264:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_264.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_264.root
+=== Files from job 265:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_265.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_265.root
+=== Files from job 266:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_266.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_266.root
+=== Files from job 267:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_267.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_267.root
+=== Files from job 268:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_268.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_268.root
+=== Files from job 269:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_269.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_269.root
+=== Files from job 27:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_27.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_27.root
+=== Files from job 270:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_270.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_270.root
+=== Files from job 271:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_271.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_271.root
+=== Files from job 272:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_272.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_272.root
+=== Files from job 273:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_273.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_273.root
+=== Files from job 274:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_274.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_274.root
+=== Files from job 275:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_275.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_275.root
+=== Files from job 276:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_276.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_276.root
+=== Files from job 277:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_277.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_277.root
+=== Files from job 278:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_278.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_278.root
+=== Files from job 279:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_279.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_279.root
+=== Files from job 28:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_28.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_28.root
+=== Files from job 280:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_280.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_280.root
+=== Files from job 281:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_281.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_281.root
+=== Files from job 282:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_282.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_282.root
+=== Files from job 283:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_283.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_283.root
+=== Files from job 284:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_284.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_284.root
+=== Files from job 285:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_285.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_285.root
+=== Files from job 286:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_286.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_286.root
+=== Files from job 287:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_287.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_287.root
+=== Files from job 288:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_288.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_288.root
+=== Files from job 289:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_289.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_289.root
+=== Files from job 29:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_29.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_29.root
+=== Files from job 290:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_290.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_290.root
+=== Files from job 291:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_291.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_291.root
+=== Files from job 292:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_292.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_292.root
+=== Files from job 293:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_293.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_293.root
+=== Files from job 294:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_294.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_294.root
+=== Files from job 295:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_295.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_295.root
+=== Files from job 296:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_296.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_296.root
+=== Files from job 297:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_297.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_297.root
+=== Files from job 298:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_298.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_298.root
+=== Files from job 299:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_299.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_299.root
+=== Files from job 3:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_3.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_3.root
+=== Files from job 3-1:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_3-1.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_3-1.root
+=== Files from job 3-2:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_3-2.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_3-2.root
+=== Files from job 3-3:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_3-3.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_3-3.root
+=== Files from job 30:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_30.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_30.root
+=== Files from job 300:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_300.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_300.root
+=== Files from job 301:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_301.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_301.root
+=== Files from job 302:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_302.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_302.root
+=== Files from job 303:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_303.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_303.root
+=== Files from job 304:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_304.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_304.root
+=== Files from job 305:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_305.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_305.root
+=== Files from job 306:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_306.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_306.root
+=== Files from job 307:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_307.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_307.root
+=== Files from job 308:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_308.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_308.root
+=== Files from job 309:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_309.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_309.root
+=== Files from job 31:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_31.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_31.root
+=== Files from job 310:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_310.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_310.root
+=== Files from job 311:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_311.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_311.root
+=== Files from job 312:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_312.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_312.root
+=== Files from job 313:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_313.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_313.root
+=== Files from job 314:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_314.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_314.root
+=== Files from job 315:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_315.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_315.root
+=== Files from job 316:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_316.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_316.root
+=== Files from job 317:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_317.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_317.root
+=== Files from job 318:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_318.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_318.root
+=== Files from job 319:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_319.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_319.root
+=== Files from job 32:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_32.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_32.root
+=== Files from job 320:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_320.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_320.root
+=== Files from job 321:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_321.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_321.root
+=== Files from job 322:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_322.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_322.root
+=== Files from job 323:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_323.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_323.root
+=== Files from job 324:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_324.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_324.root
+=== Files from job 325:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_325.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_325.root
+=== Files from job 326:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_326.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_326.root
+=== Files from job 327:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_327.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_327.root
+=== Files from job 328:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_328.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_328.root
+=== Files from job 329:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_329.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_329.root
+=== Files from job 33:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_33.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_33.root
+=== Files from job 330:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_330.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_330.root
+=== Files from job 331:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_331.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_331.root
+=== Files from job 332:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_332.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_332.root
+=== Files from job 333:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_333.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_333.root
+=== Files from job 334:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_334.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_334.root
+=== Files from job 335:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_335.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_335.root
+=== Files from job 336:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_336.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_336.root
+=== Files from job 337:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_337.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_337.root
+=== Files from job 338:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_338.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_338.root
+=== Files from job 339:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_339.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_339.root
+=== Files from job 34:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_34.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_34.root
+=== Files from job 340:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_340.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_340.root
+=== Files from job 341:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_341.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_341.root
+=== Files from job 342:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_342.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_342.root
+=== Files from job 343:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_343.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_343.root
+=== Files from job 344:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_344.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_344.root
+=== Files from job 345:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_345.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_345.root
+=== Files from job 346:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_346.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_346.root
+=== Files from job 347:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_347.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_347.root
+=== Files from job 348:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_348.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_348.root
+=== Files from job 349:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_349.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_349.root
+=== Files from job 35:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_35.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_35.root
+=== Files from job 350:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_350.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_350.root
+=== Files from job 351:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_351.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_351.root
+=== Files from job 352:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_352.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_352.root
+=== Files from job 353:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_353.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_353.root
+=== Files from job 354:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_354.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_354.root
+=== Files from job 355:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_355.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_355.root
+=== Files from job 356:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_356.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_356.root
+=== Files from job 357:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_357.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_357.root
+=== Files from job 358:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_358.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_358.root
+=== Files from job 359:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_359.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_359.root
+=== Files from job 36:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_36.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_36.root
+=== Files from job 360:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_360.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_360.root
+=== Files from job 361:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_361.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_361.root
+=== Files from job 362:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_362.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_362.root
+=== Files from job 363:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_363.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_363.root
+=== Files from job 364:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_364.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_364.root
+=== Files from job 365:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_365.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_365.root
+=== Files from job 366:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_366.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_366.root
+=== Files from job 367:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_367.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_367.root
+=== Files from job 368:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_368.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_368.root
+=== Files from job 369:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_369.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_369.root
+=== Files from job 37:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_37.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_37.root
+=== Files from job 370:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_370.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_370.root
+=== Files from job 371:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_371.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_371.root
+=== Files from job 372:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_372.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_372.root
+=== Files from job 373:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_373.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_373.root
+=== Files from job 374:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_374.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_374.root
+=== Files from job 375:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_375.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_375.root
+=== Files from job 376:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_376.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_376.root
+=== Files from job 377:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_377.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_377.root
+=== Files from job 378:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_378.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_378.root
+=== Files from job 379:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_379.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_379.root
+=== Files from job 38:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_38.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_38.root
+=== Files from job 380:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_380.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_380.root
+=== Files from job 381:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_381.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_381.root
+=== Files from job 382:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_382.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_382.root
+=== Files from job 383:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_383.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_383.root
+=== Files from job 384:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_384.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_384.root
+=== Files from job 385:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_385.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_385.root
+=== Files from job 386:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_386.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_386.root
+=== Files from job 387:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_387.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_387.root
+=== Files from job 388:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_388.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_388.root
+=== Files from job 389:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_389.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_389.root
+=== Files from job 39:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_39.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_39.root
+=== Files from job 390:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_390.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_390.root
+=== Files from job 391:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_391.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_391.root
+=== Files from job 392:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_392.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_392.root
+=== Files from job 393:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_393.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_393.root
+=== Files from job 394:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_394.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_394.root
+=== Files from job 395:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_395.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_395.root
+=== Files from job 396:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_396.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_396.root
+=== Files from job 397:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_397.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_397.root
+=== Files from job 398:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_398.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_398.root
+=== Files from job 399:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_399.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_399.root
+=== Files from job 4:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_4.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_4.root
+=== Files from job 40:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_40.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_40.root
+=== Files from job 400:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_400.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_400.root
+=== Files from job 401:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_401.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_401.root
+=== Files from job 402:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_402.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_402.root
+=== Files from job 403:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_403.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_403.root
+=== Files from job 404:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_404.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_404.root
+=== Files from job 406:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_406.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_406.root
+=== Files from job 407:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_407.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_407.root
+=== Files from job 408:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_408.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_408.root
+=== Files from job 409:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_409.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_409.root
+=== Files from job 41:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_41.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_41.root
+=== Files from job 410:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_410.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_410.root
+=== Files from job 411:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_411.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_411.root
+=== Files from job 412:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_412.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_412.root
+=== Files from job 413:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_413.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_413.root
+=== Files from job 414:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_414.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_414.root
+=== Files from job 415:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_415.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_415.root
+=== Files from job 416:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_416.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_416.root
+=== Files from job 417:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_417.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_417.root
+=== Files from job 418:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_418.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_418.root
+=== Files from job 419:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_419.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_419.root
+=== Files from job 42:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_42.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_42.root
+=== Files from job 420:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_420.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_420.root
+=== Files from job 421:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_421.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_421.root
+=== Files from job 422:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_422.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_422.root
+=== Files from job 423:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_423.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_423.root
+=== Files from job 424:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_424.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_424.root
+=== Files from job 425:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_425.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_425.root
+=== Files from job 426:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_426.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_426.root
+=== Files from job 427:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_427.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_427.root
+=== Files from job 428:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_428.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_428.root
+=== Files from job 429:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_429.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_429.root
+=== Files from job 43:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_43.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_43.root
+=== Files from job 430:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_430.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_430.root
+=== Files from job 44:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_44.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_44.root
+=== Files from job 45:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_45.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_45.root
+=== Files from job 46:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_46.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_46.root
+=== Files from job 47:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_47.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_47.root
+=== Files from job 48:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_48.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_48.root
+=== Files from job 49:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_49.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_49.root
+=== Files from job 5:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_5.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_5.root
+=== Files from job 50:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_50.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_50.root
+=== Files from job 51:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_51.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_51.root
+=== Files from job 52:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_52.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_52.root
+=== Files from job 53:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_53.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_53.root
+=== Files from job 54:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_54.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_54.root
+=== Files from job 55:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_55.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_55.root
+=== Files from job 56:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_56.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_56.root
+=== Files from job 57:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_57.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_57.root
+=== Files from job 58:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_58.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_58.root
+=== Files from job 59:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_59.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_59.root
+=== Files from job 6:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_6.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_6.root
+=== Files from job 60:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_60.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_60.root
+=== Files from job 61:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_61.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_61.root
+=== Files from job 62:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_62.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_62.root
+=== Files from job 63:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_63.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_63.root
+=== Files from job 64:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_64.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_64.root
+=== Files from job 65:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_65.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_65.root
+=== Files from job 66:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_66.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_66.root
+=== Files from job 67:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_67.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_67.root
+=== Files from job 68:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_68.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_68.root
+=== Files from job 69:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_69.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_69.root
+=== Files from job 7:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_7.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_7.root
+=== Files from job 70:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_70.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_70.root
+=== Files from job 71:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_71.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_71.root
+=== Files from job 72:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_72.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_72.root
+=== Files from job 73:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_73.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_73.root
+=== Files from job 74:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_74.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_74.root
+=== Files from job 75:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_75.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_75.root
+=== Files from job 76:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_76.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_76.root
+=== Files from job 77:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_77.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_77.root
+=== Files from job 78:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_78.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_78.root
+=== Files from job 79:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_79.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_79.root
+=== Files from job 8:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_8.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_8.root
+=== Files from job 80:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_80.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_80.root
+=== Files from job 81:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_81.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_81.root
+=== Files from job 82:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_82.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_82.root
+=== Files from job 83:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_83.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_83.root
+=== Files from job 84:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_84.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_84.root
+=== Files from job 85:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_85.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_85.root
+=== Files from job 86:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_86.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_86.root
+=== Files from job 87:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_87.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_87.root
+=== Files from job 88:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_88.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_88.root
+=== Files from job 89:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_89.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_89.root
+=== Files from job 9:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_9.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_9.root
+=== Files from job 90:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_90.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_90.root
+=== Files from job 91:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_91.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_91.root
+=== Files from job 92:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_92.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_92.root
+=== Files from job 93:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_93.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_93.root
+=== Files from job 94:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_94.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_94.root
+=== Files from job 95:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_95.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_95.root
+=== Files from job 96:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_96.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_96.root
+=== Files from job 97:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_97.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_97.root
+=== Files from job 98:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_98.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_98.root
+=== Files from job 99:
+1) PFN: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_99.root
+   LFN: /store/user/charlesf/ParkingDoubleMuonLowMass0/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025E-PromptReco-v1/260727_191705/0000/mmgTree_99.root

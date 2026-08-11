@@ -21,11 +21,11 @@ def parseOptions() :
 	parser.add_option('-o', '--output', dest='OUTPUT', type='string', help='output file')
 	parser.add_option('-n', '--njobs', dest='NJOBS', type=int, help='total njobs')
 	parser.add_option('-j', '--job', dest='JOB', type=int, help='job index')
-	parser.add_option('-l', dest='LIST', help='input file list', default="/afs/cern.ch/user/j/jfriesen/CMSSW_13_0_10/src/Run3DimuonAnalysisTools/Plotting/FillHistogram/muMuGammaTree_ntuples_fullRun3.txt")
+	parser.add_option('-l', dest='LIST', help='input file list', default="/afs/cern.ch/user/c/charlesf/cmssw-dev/CMSSW_15_0_15/src/Run3DimuonAnalysisTools/Crab/all_mmgTree_files.txt")
 	# store options and arguments as global variables
 	global opt, args
 	(opt, args) = parser.parse_args()
-
+ 
 # define function for processing the external os commands
 def processCmd(cmd, quite = 0) :
 	status, output = subprocess.getstatusoutput(cmd)
@@ -49,7 +49,7 @@ def fillHistograms() :
 
 	# get input files from list (parsed option)
 	print( "Opening list of input files", opt.LIST )
-	file_list = Path(opt.LIST).read_text().splitlines()
+	file_list = [line.strip() for line in Path(opt.LIST).read_text().splitlines() if line.strip() and not line.strip().startswith("#")]
 	print( "	Found", len(file_list), "items in list")
 
 	njobs_actual = min( opt.NJOBS, len(file_list) )
@@ -75,16 +75,29 @@ def fillHistograms() :
 	selected_indices = list(range(file_range[0], file_range[1]))
 	print(f"	Job {opt.JOB} of {njobs_actual} has files ({file_range[0]}, {file_range[1]}], using all {len(selected_indices)} files")
 
-	redirector = "root://cmsxrootd.fnal.gov//"
-	redirector = "root://xrootd.cmsaf.mit.edu:1094//"
+	# redirector = "root://cmsxrootd.fnal.gov//"
+	redirector = "root://cms-xrd-global.cern.ch/"
+	# redirector = "root://xrootd.cmsaf.mit.edu/"
+	# redirector = "root://xrootd.cmsaf.mit.edu:1094//"
 	print( "	Using redirector", redirector )
 
 	itree_name = "tree/tree"
 	itree = ROOT.TChain(itree_name)
-	for i in selected_indices:
-		print("Getting", itree_name, "from", redirector+file_list[i])
-		itree.Add(redirector+file_list[i])
-		print(itree.GetEntries(), "total entries in TChain")
+
+	for n, i in enumerate(selected_indices):
+		infile = redirector + file_list[i]
+		print(f"[job {opt.JOB}/{njobs_actual}] adding file {n+1}/{len(selected_indices)}: {infile}", flush=True)
+		added = itree.Add(infile)
+		if added == 0:
+			print(f"WARNING: failed to add {infile}", flush=True)
+
+	print("Finished building TChain", flush=True)
+	print("Total entries:", itree.GetEntries(), flush=True)
+
+	# for i in selected_indices:
+	# 	print("Getting", itree_name, "from", redirector+file_list[i])
+	# 	itree.Add(redirector+file_list[i])
+	# 	print(itree.GetEntries(), "total entries in TChain")
 
 	print("Creating "+str(opt.OUTPUT)+str(opt.JOB)+".root")
 	outfile = ROOT.TFile(str(opt.OUTPUT)+str(opt.JOB)+".root", "recreate")
@@ -99,10 +112,24 @@ def fillHistograms() :
 	print("Processing events...")
 	i_event = 0
 	#fill = 0
+
+	needed_branches = [
+		"mass",
+		"pt",
+		"eta1",
+		"eta2",
+		"custom_softMvaRun3Value1",
+		"custom_softMvaRun3Value2",
+	]
+
+	itree.SetBranchStatus("*", 0)
+	for br in needed_branches:
+		itree.SetBranchStatus(br, 1)
+
 	for ev in itree :
 		if (ev.mass > mumu_mass_range[1]) : continue
 		#if ( ev.softMvaRun3Value1 < 0.3 or ev.softMvaRun3Value2 < 0.3) : continue
-		if(verbose or i_event%1000==0): print( "mumu_mass <", mumu_mass_range[1], "event", i_event )
+		if(verbose or i_event%100000==0): print( "mumu_mass <", mumu_mass_range[1], "event", i_event )
 		i_event+=1
 
 		#print(f"mass: {ev.mass}, pt: {ev.pt}, eta1: {ev.eta1}, eta2: {ev.eta2}, softMvaRun3Value1: {ev.softMvaRun3Value1}, {ev.custom_softMvaRun3Value1}, softMvaRun3Value2: {ev.softMvaRun3Value2}, {ev.custom_softMvaRun3Value2}")

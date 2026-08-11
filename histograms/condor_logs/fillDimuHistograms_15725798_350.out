@@ -1,0 +1,80 @@
+Host: b9p31p7665.cern.ch
+Date: Thu Aug  6 10:12:13 PM CEST 2026
+PROCID=350
+JOB=351
+NJOBS=500
+LIST=/afs/cern.ch/user/c/charlesf/cmssw-dev/CMSSW_15_0_15/src/Run3DimuonAnalysisTools/Crab/all_mmgTree_files.txt
+OUTDIR=/eos/user/c/charlesf/www/dark_photon/root
+Opening list of input files /afs/cern.ch/user/c/charlesf/cmssw-dev/CMSSW_15_0_15/src/Run3DimuonAnalysisTools/Crab/all_mmgTree_files.txt
+	Found 11350 items in list
+	Job 351 of 500 has files (7945, 7967], using all 22 files
+	Using redirector root://cms-xrd-global.cern.ch/
+[job 351/500] adding file 1/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_254.root
+[job 351/500] adding file 2/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_255.root
+[job 351/500] adding file 3/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_256.root
+[job 351/500] adding file 4/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_257.root
+[job 351/500] adding file 5/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_258.root
+[job 351/500] adding file 6/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_259.root
+[job 351/500] adding file 7/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_26.root
+[job 351/500] adding file 8/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_260.root
+[job 351/500] adding file 9/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_261.root
+[job 351/500] adding file 10/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_262.root
+[job 351/500] adding file 11/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_263.root
+[job 351/500] adding file 12/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_264.root
+[job 351/500] adding file 13/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_265.root
+[job 351/500] adding file 14/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_266.root
+[job 351/500] adding file 15/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_267.root
+[job 351/500] adding file 16/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_268.root
+[job 351/500] adding file 17/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_269.root
+[job 351/500] adding file 18/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_27.root
+[job 351/500] adding file 19/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_270.root
+[job 351/500] adding file 20/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_271.root
+[job 351/500] adding file 21/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_272.root
+[job 351/500] adding file 22/22: root://cms-xrd-global.cern.ch//store/user/charlesf/ParkingDoubleMuonLowMass5/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass5Run2025F-PromptReco-v1/260727_192342/0000/mmgTree_273.root
+Finished building TChain
+Total entries: 8923850
+Creating /eos/user/c/charlesf/www/dark_photon/root/histos_351.root
+Processing events...
+mumu_mass < 0.6 event 0
+mumu_mass < 0.6 event 100000
+mumu_mass < 0.6 event 200000
+mumu_mass < 0.6 event 300000
+mumu_mass < 0.6 event 400000
+mumu_mass < 0.6 event 500000
+mumu_mass < 0.6 event 600000
+Saving histograms...
+	Saving Cat_3_bb_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 26971.0 entries
+	Saving Cat_10_bb_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 14399.0 entries
+	Saving Cat_4_bb_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 25911.0 entries
+	Saving Cat_9_bb_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 13414.0 entries
+	Saving Cat_5_bb_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 26473.0 entries
+	Saving Cat_2_bb_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 26501.0 entries
+	Saving Cat_4_ee_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 27408.0 entries
+	Saving Cat_3_ee_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 24550.0 entries
+	Saving Cat_5_ee_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 34583.0 entries
+	Saving Cat_10_bb_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 33324.0 entries
+	Saving Cat_5_ee_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 15455.0 entries
+	Saving Cat_3_ee_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 11745.0 entries
+	Saving Cat_8_bb_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 28571.0 entries
+	Saving Cat_1_ee_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 14485.0 entries
+	Saving Cat_7_bb_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 14745.0 entries
+	Saving Cat_6_bb_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 26191.0 entries
+	Saving Cat_1_bb_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 26225.0 entries
+	Saving Cat_2_bb_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 14273.0 entries
+	Saving Cat_2_ee_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 22766.0 entries
+	Saving Cat_9_bb_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 28434.0 entries
+	Saving Cat_8_bb_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 14222.0 entries
+	Saving Cat_7_bb_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 28152.0 entries
+	Saving Cat_4_ee_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 12541.0 entries
+	Saving Cat_1_bb_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 14164.0 entries
+	Saving Cat_0_bb_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 973.0 entries
+	Saving Cat_3_bb_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 15064.0 entries
+	Saving Cat_5_bb_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 14552.0 entries
+	Saving Cat_0_ee_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 673.0 entries
+	Saving Cat_4_bb_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 14503.0 entries
+	Saving Cat_6_bb_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 14317.0 entries
+	Saving Cat_2_ee_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 11133.0 entries
+	Saving Cat_1_ee_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 7989.0 entries
+	Saving Cat_0_bb_CR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 1417.0 entries
+	Saving Cat_0_ee_SR to /eos/user/c/charlesf/www/dark_photon/root/histos_351.root with 156.0 entries
+Finished job 351/500 at Thu Aug  6 22:21:07 CEST 2026

@@ -1,0 +1,8 @@
+Rucio client intialized for account charlesf
+Rucio client intialized for account charlesf
+ERROR: KeyError: 'statusFailureMsg'
+
+ Look for more details in crab.log file /afs/cern.ch/user/c/charlesf/cmssw-dev/CMSSW_15_0_15/src/Run3DimuonAnalysisTools/Crab/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025D-PromptReco-v1/crab.log
+  If you can't figure out the problem, please send email to
+	cmstalk+computing-tools@dovecotmta.cern.ch with the crab.log file or crab.log URL.
+  Please use 'crab uploadlog' to upload the log file /afs/cern.ch/user/c/charlesf/cmssw-dev/CMSSW_15_0_15/src/Run3DimuonAnalysisTools/Crab/crab_muMuGamma_24Jul26_ParkingDoubleMuonLowMass0Run2025D-PromptReco-v1/crab.log to the CRAB cache.

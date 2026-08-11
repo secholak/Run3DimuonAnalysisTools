@@ -10,13 +10,14 @@ process.MessageLogger.cerr.FwkSummary.reportEvery = 1000
 process.MessageLogger.cerr.FwkReport.reportEvery = 1000
 
 process.maxEvents = cms.untracked.PSet(
-    input = cms.untracked.int32(100000)
+    input = cms.untracked.int32(1000)
 )
 
 
 process.source = cms.Source("PoolSource",
     fileNames = cms.untracked.vstring(
-    '/store/data/Run2022F/ParkingDoubleMuonLowMass0/MINIAOD/PromptReco-v1/000/360/390/00000/05607e2d-f8e5-41a7-8392-bb5d44c16a6d.root'
+        'root://cms-xrd-global.cern.ch//store/data/Run2025C/ParkingDoubleMuonLowMass0/MINIAOD/PromptReco-v1/000/392/175/00000/e9e902fd-0535-4a95-8b33-f61f76ef4667.root'
+    # '/store/data/Run2022F/ParkingDoubleMuonLowMass0/MINIAOD/PromptReco-v1/000/360/390/00000/05607e2d-f8e5-41a7-8392-bb5d44c16a6d.root'
     # '/store/data/Run2024D/BTagMu/MINIAOD/PromptReco-v1/000/380/306/00000/2b1e5777-67f5-443e-b50e-1a5547eb09ab.root'
  )
 )
@@ -37,19 +38,19 @@ process.load("Configuration.Geometry.GeometryDB_cff")
 process.load("Configuration.StandardSequences.MagneticField_cff")
 process.load('Configuration.StandardSequences.FrontierConditions_GlobalTag_cff')
 from Configuration.AlCa.GlobalTag import GlobalTag
-process.GlobalTag = GlobalTag(process.GlobalTag, '124X_dataRun3_Prompt_v4', '')
+process.GlobalTag = GlobalTag(process.GlobalTag, '150X_dataRun3_Prompt_v1', '')
 
 # 2022: run 362616
-L1Info = [
-    "L1_DoubleMu3er2p0_SQ_OS_dR_Max1p4", 
-    "L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p6", 
-    "L1_DoubleMu0er1p4_OQ_OS_dEta_Max1p6", 
-    "L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p5", 
-    "L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4", 
-    "L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4", 
-    "L1_DoubleMu4p5_SQ_OS_dR_Max1p2", 
-    "L1_DoubleMu4_SQ_OS_dR_Max1p2"
-    ]
+# L1Info = [
+#     "L1_DoubleMu3er2p0_SQ_OS_dR_Max1p4", 
+#     "L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p6", 
+#     "L1_DoubleMu0er1p4_OQ_OS_dEta_Max1p6", 
+#     "L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p5", 
+#     "L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4", 
+#     "L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4", 
+#     "L1_DoubleMu4p5_SQ_OS_dR_Max1p2", 
+#     "L1_DoubleMu4_SQ_OS_dR_Max1p2"
+#     ]
 
 
 # # 2023: run 370725
@@ -83,6 +84,34 @@ L1Info = [
 #     "L1_DoubleMu4p5_SQ_OS_dR_Max1p2", 
 #     "L1_DoubleMu4_SQ_OS_dR_Max1p2"
 # ]
+
+L1Info = [
+    # HLT DoubleMu4 3 LowMass v1 seeds for /dev/CMSSW_15_0_0/HLT/V135 (hltL1sDoubleMuForLowMass)
+    "L1_DoubleMu0er1p4_SQ_OS_dEta_Max1p2",
+    "L1_DoubleMu4er2p0_SQ_OS_dR_Max1p6",
+    "L1_DoubleMu5_SQ_OS_dR_Max1p6",
+    "L1_DoubleMu3er2p0_SQ_OS_dR_Max1p6",
+    "L1_DoubleMu0er1p5_SQ_OS_dEta_Max1p2",
+    "L1_DoubleMu0er1p4_OQ_OS_dEta_Max1p6",
+    "L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p5",
+    "L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4", 
+    "L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4",
+    "L1_DoubleMu4p5_SQ_OS_dR_Max1p2",
+    "L1_DoubleMu4_SQ_OS_dR_Max1p2",
+
+    # HLT DoubleMu4 LowMass Displaced v1 seeds for /dev/CMSSW_15_0_0/HLT/V135 (hltL1sDoubleMuForLowMassDisplaced)
+    # "L1_DoubleMu0er1p4_SQ_OS_dEta_Max1p2",
+    # "L1_DoubleMu4er2p0_SQ_OS_dR_Max1p6",
+    # "L1_DoubleMu5_SQ_OS_dR_Max1p6",
+    # "L1_DoubleMu3er2p0_SQ_OS_dR_Max1p6",
+    # "L1_DoubleMu0er1p5_SQ_OS_dEta_Max1p2",
+    # "L1_DoubleMu0er1p4_OQ_OS_dEta_Max1p6",
+    # "L1_DoubleMu0er2p0_SQ_OS_dEta_Max1p5",
+    # "L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4",
+    # "L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4",
+    # "L1_DoubleMu4p5_SQ_OS_dR_Max1p2",
+    # "L1_DoubleMu4_SQ_OS_dR_Max1p2"
+]
 
 process.tree = cms.EDAnalyzer('MuMuGammaTreeMaker',
                                       triggerresults   = cms.InputTag("TriggerResults", "", "HLT"),

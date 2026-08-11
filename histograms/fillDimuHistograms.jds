@@ -1,0 +1,28 @@
++JobBatchName = "dimuhistos"
+universe = vanilla
+executable = run_fillDimuHistograms.sh
+
+# arguments: $(ProcId) NJOBS
+arguments = $(ProcId) 500
+
+output = condor_logs/fillDimuHistograms_$(ClusterId)_$(ProcId).out
+error  = condor_logs/fillDimuHistograms_$(ClusterId)_$(ProcId).err
+log    = condor_logs/fillDimuHistograms_$(ClusterId).log
+
+getenv = True
+
+# Use your current grid proxy
+use_x509userproxy = true
+x509userproxy = /afs/cern.ch/user/c/charlesf/private/x509up
+
++JobFlavour = "workday"
+
+should_transfer_files = yes
+when_to_transfer_output = ON_EXIT
+transfer_input_files = fillDimuHistograms-binned.py
+
+request_cpus = 1
+request_memory = 3000
+request_disk = 1000
+
+queue 500

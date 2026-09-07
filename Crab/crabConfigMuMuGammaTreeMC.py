@@ -3,7 +3,7 @@ from CRABAPI.RawCommand import crabCommand
 from CRABClient.UserUtilities import config
 config = config()
 
-config.General.requestName = 'mmg_Run3Summer22MiniAODv3_InclusiveDileptonMinBias_27JUL27'
+config.General.requestName = 'mmg_Run3Summer22MiniAODv3_InclusiveDileptonMinBias_28JUL27'
 
 config.JobType.pluginName = 'Analysis'
 # Name of the CMSSW configuration file

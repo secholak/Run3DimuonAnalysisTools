@@ -1092,8 +1092,10 @@ void MuMuGammaTreeMaker::endJob() {
 
 void MuMuGammaTreeMaker::beginRun(edm::Run const& iRun, edm::EventSetup const& iSetup) {
     // HLT paths
-    triggerPathsVector.push_back("HLT_DoubleMu4_3_LowMass_v*");
-    triggerPathsVector.push_back("HLT_DoubleMu4_LowMass_Displaced_v*");
+    triggerPathsVector.push_back("HLT_DoubleMu4_3_LowMass_v.*");
+    triggerPathsVector.push_back("HLT_DoubleMu4_LowMass_Displaced_v.*");
+    // triggerPathsVector.push_back("HLT_DoubleMu4_3_LowMass_v8");
+    // triggerPathsVector.push_back("HLT_DoubleMu4_LowMass_Displaced_v8");
 
     HLTConfigProvider hltConfig;
     bool changedConfig = false;

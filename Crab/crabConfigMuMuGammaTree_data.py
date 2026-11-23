@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
 
         #2026
-        #A
+        # #A
         # "/ParkingDoubleMuonLowMass0/Run2026A-PromptReco-v1/MINIAOD",
         # "/ParkingDoubleMuonLowMass1/Run2026A-PromptReco-v1/MINIAOD",
         # "/ParkingDoubleMuonLowMass2/Run2026A-PromptReco-v1/MINIAOD",
@@ -59,7 +59,7 @@ if __name__ == '__main__':
         # "/ParkingDoubleMuonLowMass5/Run2026B-PromptReco-v1/MINIAOD",
         # "/ParkingDoubleMuonLowMass6/Run2026B-PromptReco-v1/MINIAOD",
         # "/ParkingDoubleMuonLowMass7/Run2026B-PromptReco-v1/MINIAOD",
-        # #C
+        #C
         "/ParkingDoubleMuonLowMass0/Run2026C-PromptReco-v1/MINIAOD",  
         "/ParkingDoubleMuonLowMass1/Run2026C-PromptReco-v1/MINIAOD",
         "/ParkingDoubleMuonLowMass2/Run2026C-PromptReco-v1/MINIAOD",
@@ -68,7 +68,7 @@ if __name__ == '__main__':
         "/ParkingDoubleMuonLowMass5/Run2026C-PromptReco-v1/MINIAOD",
         "/ParkingDoubleMuonLowMass6/Run2026C-PromptReco-v1/MINIAOD",
         "/ParkingDoubleMuonLowMass7/Run2026C-PromptReco-v1/MINIAOD",
-        #D
+        # #D
         # "/ParkingDoubleMuonLowMass0/Run2026D-PromptReco-v1/MINIAOD",
         # "/ParkingDoubleMuonLowMass1/Run2026D-PromptReco-v1/MINIAOD",
         # "/ParkingDoubleMuonLowMass2/Run2026D-PromptReco-v1/MINIAOD",
@@ -369,5 +369,5 @@ if __name__ == '__main__':
     
     for dataset in datasets:
         config.Data.inputDataset = dataset
-        config.General.requestName = "muMuGamma_15Sep26_" + dataset.split('/')[1] +  dataset.split('/')[2]
+        config.General.requestName = "muMuGamma_16Sep26_" + dataset.split('/')[1] +  dataset.split('/')[2]
         crabCommand('submit', config = config)
